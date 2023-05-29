@@ -1,1 +1,5 @@
-team added a game to the game list
+
+1.team added a game to the game list
+
+2.sensor has been added to the list
+
