@@ -1,1 +1,1 @@
-list all the changes done in the project
+sensor has been added to the list
