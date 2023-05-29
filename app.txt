@@ -1,1 +1,1 @@
-list all the changes done in the project
+team added a game to the game list
